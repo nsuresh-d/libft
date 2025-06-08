@@ -1,0 +1,2 @@
+# libft
+just libft bro
